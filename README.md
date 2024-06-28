@@ -8,7 +8,7 @@ In preparation for more focused research and reviewing papers in my areas of int
 
 ## Index
 
-- ch01. 헬로 파이썬  - [X]
+- ch01. 헬로 파이썬
 - ch02. 퍼셉트론
 - ch03. 신경망
 - ch04. 신경망 학습
