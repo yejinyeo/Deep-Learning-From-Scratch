@@ -1,10 +1,10 @@
-# Deep Learning from Scratch: Hands-On Exercises
+# Deep Learning from Scratch: 밑바닥부터 시작하는 딥러닝
 
-This repository contains my hands-on exercises and solutions based on the book **"Deep Learning from Scratch"**
+* 이 저장소는 "밑바닥부터 시작하는 딥러닝" 책을 학습하면서 정리한 내용과 코드 실습을 위한 저장소입니다.
 
-## Introduction
+* 본격적인 연구와 관심 분야의 논문 리뷰를 준비하기 위해 딥러닝 기초를 쌓고자 시작했습니다.
 
-In preparation for more focused research and reviewing papers in my areas of interest, I am working through the book **"Deep Learning from Scratch"** to build a strong foundation in deep learning concepts. This repository includes my implementations of the book's content and additional notes.
+* 이 책을 기반으로 여러 의문점에 답하며 개념의 깊이를 확장하고, 실습을 통해 학습 내용을 구현했습니다.
 
 ## Index
 
