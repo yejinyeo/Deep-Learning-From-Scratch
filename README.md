@@ -8,7 +8,7 @@
 
 ## Index
 
-- [ch01. 헬로 파이썬](./ch01_python_test.ipynb)
+- ch01. 헬로 파이썬[(notebook)](./ch01_python_test.ipynb)
 - [ch02. 퍼셉트론](./ch02_perceptron.ipynb)
 - [ch03. 신경망](./ch03_neural_network.ipynb)
 - ch04. 신경망 학습
